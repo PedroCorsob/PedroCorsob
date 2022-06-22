@@ -7,4 +7,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroCorsob&repo=sportTechnic)](https://github.com/Eduardogallegos/sportTechnic)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroCorsob&repo=sportTechniciOS)](https://github.com/Eduardogallegos/sportTechniciOS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroCorsob&repo=sportTechniciOS)](https://github.com/PedroCorsob/sportTechnici_iOS)
