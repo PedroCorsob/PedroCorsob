@@ -5,4 +5,6 @@
 
 [![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=PedroCorsob&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCorsob&layout=compact&exclude_repo=ProyectoFinal_VideoGame_python&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroCorsob&repo=sportTechnic)](https://github.com/Eduardogallegos/sportTechnic)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroCorsob&repo=sportTechniciOS)](https://github.com/Eduardogallegos/sportTechniciOS)
